@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "baseproject",
-    "slug": "baseproject",
+    "name": "BaseReactNative",
+    "slug": "BaseReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
